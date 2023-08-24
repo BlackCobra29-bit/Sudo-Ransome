@@ -1,6 +1,6 @@
-<span style="position: absolute; top: 13px; font-size: 14px"> &nbsp Tesfahiwet Truneh
+<span style="position: absolute; top: 13px; font-size: 14px">Tesfahiwet Truneh
 <br>
-&nbsp Script Developer & Cyber Security geek
+Script Developer & Cyber Security geek
 </span>
 <br>
 <hr>
