@@ -1,4 +1,3 @@
-<img src="https://coderspdf.com/img/69DFD530-BC83-47C3-B485-30325DE37374.jpeg" style="width: 40px; border-radius: 50%">
 <span style="position: absolute; top: 13px; font-size: 14px"> &nbsp Tesfahiwet Truneh
 <br>
 &nbsp Script Developer & Cyber Security geek
