@@ -26,6 +26,6 @@ access it.
 ## 2. Decryption GUI view
 <img src="img/decrypter.png" style="width: 540px;">
 
-## 1. Attacker Server view
+## 3. Attacker Server view
 <img src="img/server.png" style="width: 540px;">
 
