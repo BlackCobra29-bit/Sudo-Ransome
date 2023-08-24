@@ -14,7 +14,7 @@ decrypts only after a sum of money is paid to the attacker.
 Encryption is the process of encoding information so only authorized parties can
 access it.
 
-* The tool uses `TCP(Transmisiion Control Protocol) Socket connection` to send ransome key and victim's information to attacker's server.
+* The tool uses `TCP(Transmisiion Control Protocol) Socket connection` to send decryption key and victim's information to attacker's server.
 
 * Once rasnome code is installed on the target machine. it will try to connect to the host server based on the `server IP and Port`
 
